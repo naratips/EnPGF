@@ -1,0 +1,14 @@
+Source code and data for the EnPGF as used in the paper: 
+
+Identification of an influence network by an ensemble-based filtering for Hawkes process driven by count data (2022)
+by N. Santitissadeekorn, S. Delahaies (s.delahaies@gmail.com) and D. J. B. Lloyd 
+Department of Mathematics, University of Surrey  
+ 
+- EuroMail_EnPGF.py main code to run EnPGF for the European Email data set 
+- dN1_1dayunit_weekday.mat preprocessed European Email Data set
+
+- Synth_EnPGF.py main code to run EnPGF for the 300 Nodes synthetic experiment
+- synth_data_300_b.csv  synthetic data for the 300 Nodes synthetic experiment
+- mut_300_b.csv, betat_300_b.csv and alphat_300_b.csv true mu, beta and alpha used to generate the synthetic data
+ 
+
